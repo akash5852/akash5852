@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Akash Sharma
-- 👀 I’m interested in full stack development and embedded systems design
-- 🌱 I’m currently learning back end web development, as well as trying out new front end frameworks
-- 💞️ I’m looking to collaborate on interesting projects, that can make use of software skills
-- 📫 You can reach me at my personal email: aksha5852@gmail.com, school email: shara98@mcmaster.ca
+<h1 align=center>👋 Hey, I’m Akash Sharma</h1>
+
+<p align=center>I’m a Second Year Computer Engineering student at McMaster University currently learning full stack development in my spare time.</p>
+
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=akash5852&show_icons=true&theme=tokyonight"/>
+<img align = right src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash5852&theme=tokyonight"/>
+</p>
 
 <!---
 akash5852/akash5852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

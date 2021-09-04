@@ -7,19 +7,21 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash5852&theme=tokyonight&layout=compact&langs_count=5"/>
 </p>
 
-<a id=logo class="nav-link" href="https://github.com/akash5852">
-                <img src="https://image.flaticon.com/icons/png/512/179/179323.png" alt="">
-            </a>
-            <a id=logo class="nav-link" href="www.linkedin.com/in/akash5852">
-                <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="">
-            </a>
-            <a id=logo class="nav-link" href="https://www.instagram.com/hiakash14/">
-                <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="">
-            </a>
-            <a id=logo class="nav-link" href="mailto:shara98@mcmaster.ca">
-                <img src="https://img-premium.flaticon.com/png/512/542/premium/542638.png?token=exp=1630769334~hmac=875c734cd0337fc22ebce44e90fa80cf"
-                    alt="">
-            </a>
+<a href="https://github.com/akash5852">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" alt="GitHub">
+</a>
+
+<a id=logo class="nav-link" href="www.linkedin.com/in/akash5852">
+<img src= alt="">
+</a>
+
+<a id=logo class="nav-link" href="https://www.instagram.com/hiakash14/">
+<img src= alt="">
+</a>
+
+<a id=logo class="nav-link" href="mailto:shara98@mcmaster.ca">
+<img src="" alt="">
+</a>
 <!---
 akash5852/akash5852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

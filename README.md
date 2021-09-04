@@ -1,6 +1,6 @@
 <h1 align=center>👋 Hey, I’m Akash Sharma</h1>
 
-<p align=center>I’m a Second Year Computer Engineering student at McMaster University currently learning full stack development in my spare time.</p>
+<p align=center>I’m a Second Year Computer Engineering student at McMaster University currently learning the ins and outs of full stack development.</p>
 
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=akash5852&show_icons=true&theme=tokyonight&count_private=true"/>

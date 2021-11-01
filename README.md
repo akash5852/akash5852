@@ -5,7 +5,7 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=akash5852&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash5852&theme=tokyonight&layout=compact&langs_count=7"/>
+<img width = 50em src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash5852&theme=tokyonight&layout=compact&langs_count=7"/>
 </p>
 
 <a href="https://github.com/akash5852">

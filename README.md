@@ -3,9 +3,7 @@
 
 <p>I’m a Second Year Computer Engineering student at McMaster University currently learning the ins and outs of full stack development.</p>
 
-<p>
-<img  src="https://github-readme-stats.vercel.app/api?username=akash5852&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
-</p>
+
 
 <a href="https://github.com/akash5852">
 <img height = 30em width = auto src= "https://github.com/akash5852/akash5852/blob/main/icons/logos/GitHub-Mark-Light-120px-plus.png" alt="Github">

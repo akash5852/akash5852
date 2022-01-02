@@ -1,8 +1,8 @@
 <div align = center>
 <h1>👋 Hey, I’m Akash Sharma</h1>
 
-<p>I’m a second year Computer Engineering student @ McMaster University with a passion for creating software that improves lives.</p>
-<p>Currently I am exploring the ins and outs of full-stack development.</p>
+<p>I’m a second year Computer Engineering student @ McMaster University with a passion for creating software that improves lives.</br>Currently I am exploring the ins and outs of full-stack development.</p>
+
   
   
 <p>Feel free to reach out to me with any of my social links below.</p>

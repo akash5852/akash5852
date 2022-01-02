@@ -3,7 +3,7 @@
 
 <p>I’m a Second Year Computer Engineering student at McMaster University currently learning the ins and outs of full stack development.</p>
 
-
+<p>Feel free to reach out to me with any of my social links below</p>
 
 <a href="https://github.com/akash5852">
 <img height = 30em width = auto src= "https://github.com/akash5852/akash5852/blob/main/icons/logos/GitHub-Mark-Light-120px-plus.png" alt="Github">

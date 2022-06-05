@@ -1,5 +1,5 @@
 <div align = center>
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hey, I’m Akash Sharma</h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"> Hey, I’m Akash Sharma</h1>
 
 <p>I’m a second year Computer Engineering student @ McMaster University with a passion for creating software that improves lives.</br>Currently I am exploring the ins and outs of full-stack development.</p>
 

@@ -1,34 +1,9 @@
 <div align = center>
 <h1>Hey there, it's Akash!</h1>
 
-<p>I’m a third year Computer Engineering student @ McMaster University working as a Software Engineer Intern @ TD.</p>
+<p>I’m a third year Computer Engineering student @ McMaster University working as a Software Engineer Intern @ TD</p>
 
 
-  
-<p>Feel free to reach out to me with any of my social links below.</p>
-
-<a href="https://github.com/akash5852">
-<img height = 30em width = auto src= "https://github.com/akash5852/my-website/blob/master/src/Resources/github%20(2).svg" alt="Github">&nbsp;&nbsp;
-</a>
-
-
-
-<a href="https://akashxyz.netlify.app/">
-<img  height = 30em width = auto src="https://github.com/akash5852/my-website/blob/master/src/Resources/aboutdotme.svg" alt="Instagram">&nbsp;&nbsp;
-</a>
-
-<a href="https://www.instagram.com/hiakash14/">
-<img  height = 30em width = auto src="https://github.com/akash5852/my-website/blob/master/src/Resources/instagram.svg" alt="Instagram">&nbsp;&nbsp;
-</a>
-
-<a href="mailto:shara98@mcmaster.ca">
-<img height = 30em width = auto src="https://github.com/akash5852/my-website/blob/master/src/Resources/maildotru.svg" alt="mail">&nbsp;&nbsp;
-</a>
-  
-  <a href="www.linkedin.com/in/akash5852">
-<img height = 30em width = auto src="https://github.com/akash5852/my-website/blob/master/src/Resources/linkedin.svg" alt="Linkedin">&nbsp;&nbsp;
-</a>
-</div>
 <!---
 akash5852/akash5852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

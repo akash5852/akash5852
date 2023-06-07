@@ -1,5 +1,5 @@
 <div align = center>
-<h1>Hey, I’m Akash Sharma</h1>
+<h1>Hey there, it's Akash!</h1>
 
 <p>I’m a third year Computer Engineering student @ McMaster University working as a Software Engineer Intern @ TD.</p>
 

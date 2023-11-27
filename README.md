@@ -1,7 +1,7 @@
 <div align = center>
 <h1>Hey there, it's Akash!</h1>
 
-<p>I’m a third year Computer Engineering student @ McMaster University working as a Software Engineer Intern @ Sun Life</p>
+<p>I’m a fourth year Computer Engineering student @ McMaster University working as a Software Engineer Intern @ Sun Life</p>
 
 
 <!---

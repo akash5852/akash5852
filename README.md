@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm Akash!
 
 📚 **Fourth Year Computer Engineering Student @ McMaster University**  
-💻 **Software Engineer Intern @ TD AMCB**
+💻 **Software Engineer Intern @ Sun Life**
 
 
 I'm on a mission to build solutions that matter. From full-stack development to the nitty-gritty of computer engineering, my journey is about turning complex challenges into simple, innovative and effective solutions.

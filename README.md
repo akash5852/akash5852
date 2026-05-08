@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there, I'm Akash!
+# Hey there, I'm Akash
 
 **Software Engineer @ Sun Life**
 
